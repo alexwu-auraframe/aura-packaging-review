@@ -1,0 +1,9 @@
+{
+  "name": "aura-packaging-review",
+  "version": "1.0.0",
+  "description": "Aura Home packaging design review — cross-checks outserts, bellybands, user manuals, and QSGs against the official copy doc. Flags discrepancies, verifies compliance marks, and posts structured results to Slack.",
+  "author": {
+    "name": "Aura Home"
+  },
+  "keywords": ["packaging", "review", "compliance", "aura"]
+}
